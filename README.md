@@ -1,4 +1,4 @@
-# ⚽ Football Analysis Portfolio
+#  Football Analysis Portfolio
 
 Welcome to my football analysis portfolio.
 
