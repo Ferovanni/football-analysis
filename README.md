@@ -1,43 +1,26 @@
-# Football Analysis Portfolio
+# ⚽ Football Analysis Portfolio
 
-## About
+Welcome to my football analysis portfolio.
 
-Hello!
+My name is **Ferhat Okçu**, and I am an Aerospace Engineering student with a strong interest in football analysis, scouting, tactical analysis, and football data analytics.
 
-My name is Ferhat.
-
-I am an undergraduate student at Çanakkale Onsekiz Mart University.
-
-I am passionate about:
-
-- Football Analysis
-- Tactical Analysis
-- Scouting
-- Recruitment
-- Football Data Analysis (Learning)
-
-This repository documents my journey to becoming a professional football analyst.
-
----
+This repository documents my learning journey and showcases my work as I continue to develop the skills required to become a professional football analyst.
 
 ## Repository Structure
 
-- Player Reports
-- Match Reports
-- Tactical Analysis
-- Data Analysis
-- Templates
-
----
+-  Match Reports
+-  Player Reports
+-  Data Analysis
+-  Tactical Analysis
+-  Templates
+-  Videos
 
 ## Current Goals
 
-- Improve tactical knowledge
-- Build a professional portfolio
+- Improve tactical understanding
+- Develop scouting skills
 - Learn Python for football analytics
-- Publish independent match reports
-- Publish player scouting reports
+- Build a professional portfolio
+- Pursue opportunities in football analysis and recruitment
 
----
-
-*"Turning matches into insights."*
+Thank you for visiting my portfolio.
